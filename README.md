@@ -1,1 +1,11 @@
-# student-manager
+# Student Grade Manager
+1학년 C언어 기초 과제: 학생 성적 관리 프로그램
+
+### 기능
+- 학생 이름과 점수 입력
+- 전체 학생 목록 출력 및 평균 점수 계산
+
+### 사용 방법
+1. C 컴파일러가 설치된 환경에서 다음 명령어로 컴파일합니다.
+   ```bash
+   gcc main.c -o main
